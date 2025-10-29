@@ -184,7 +184,7 @@ This dataset is made available for educational and research purposes. The underl
 
 ## Acknowledgments
 
-- Data source: [Lionel Messi - All 800 Goals](https://www.youtube.com/watch?v=IscGtF_A14A&t=751s)
+- Data source: [Lionel Messi - All 800 Goals](https://www.youtube.com/watch?v=IscGtF_A14A&t=751s), [transfermarkt.us(for assist data)](https://www.transfermarkt.us/)
 - Created as a learning project for sports analytics and Claude Code exploration
 - Thanks to the football statistics community for inspiration
 

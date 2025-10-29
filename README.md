@@ -8,6 +8,43 @@ This dataset was created for two main purposes:
 1. **Data Sharing**: Contributing to the sports analytics community by providing detailed, manually curated data about one of football's greatest players
 2. **Learning Claude Code**: Using this project as a hands-on way to explore Claude Code's capabilities for data processing, analysis, and collaborative development
 
+## Using Claude Code with This Repo
+
+This repository is set up with [Claude Code](https://docs.claude.com/en/docs/claude-code) to demonstrate AI-assisted development.
+
+### How It Works
+
+1. **Create an issue** with a task (e.g., "Add a visualization script")
+2. **Tag @claude** in the issue description or comments
+3. **Claude responds**, writes code, and creates a PR
+4. **Review and merge** the PR
+
+### Try It Yourself
+
+**Prerequisites:**
+- Fork this repository
+- Add your `ANTHROPIC_API_KEY` to repository secrets ([instructions](https://github.com/anthropics/claude-code-action#setup))
+- Merge the Claude Code workflow (should be in your fork)
+
+**Example tasks to try:**
+```
+@claude Create a script to visualize goals by competition
+
+@claude Add data validation to check for duplicate entries
+
+@claude Generate a summary report of goals scored at home vs away
+```
+
+**Cost:** Simple tasks typically cost $0.10-$0.50 in API credits (billed to me so go easy :))
+
+### What Makes This Useful
+
+Beyond just coding, Claude Code can:
+- Answer questions about the dataset
+- Generate documentation
+- Review and explain code
+- Suggest improvements based on repo context
+
 ## Dataset Overview
 
 - **Total Goals**: 800

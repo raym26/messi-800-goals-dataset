@@ -1,4 +1,4 @@
-# Messi 800 Goals Dataset
+# Messi 800 Goals Dataset...and Claude Code Experimentation
 
 A comprehensive dataset documenting Lionel Messi's first 800 career goals, manually transcribed from video footage. This dataset captures detailed information about each goal including location, type, opponent, and context.
 

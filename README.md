@@ -20,7 +20,7 @@ This dataset was created for two main purposes:
 Data was manually transcribed from the YouTube compilation:
 [Lionel Messi - All 800 Goals](https://www.youtube.com/watch?v=IscGtF_A14A&t=751s)
 
-A Jupyter notebook (`messi800.ipynb`) with visualization examples is included in this repository.
+A Jupyter notebook (`messi_goals_analysis.ipynb`) with visualization examples is included in this repository.
 
 ## Data Dictionary
 
